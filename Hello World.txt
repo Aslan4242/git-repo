@@ -4,3 +4,4 @@ print hello;
 print hello my dear friend;
 print glad to see you;
 print whats up
+print привет
